@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-image: linear-gradient(to bottom right,white,peachpuff,cyan,black)
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(52, 51, 51) ;
+    border-radius: 25px;
+}
+a{
+    float:right;
+    margin-right: 10px;
+    margin-top:10px;
+}
+
